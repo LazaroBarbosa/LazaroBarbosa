@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lazaroangelov/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/cloneex3)
 
-![Lazaro GitHub stats](https://github-readme-stats.vercel.app/api?username=LazaroBarbosa&show_icons=true&theme=onedark)
+![Lazaro GitHub stats](https://github-readme-stats-puce-rho-60.vercel.app/api?username=LazaroBarbosa&show_icons=true&theme=onedark)
 
 ## Tecnologias que eu uso no meu dia
 
